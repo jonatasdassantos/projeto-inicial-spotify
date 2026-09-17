@@ -4,7 +4,7 @@ Projeto de desenvolvimento web criado durante meus estudos de HTML5, CSS3 e Boot
 
 ## 🖥️ Preview
 
-![Preview do projeto](images/preview.png)
+![Preview do projeto](imagens/preview_spotfy.png)
 
 ## 📌 Sobre o projeto
 
