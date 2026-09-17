@@ -2,6 +2,10 @@
 
 Projeto de desenvolvimento web criado durante meus estudos de HTML5, CSS3 e Bootstrap, com o objetivo de reproduzir a estrutura visual de uma plataforma de streaming de música.
 
+## 🖥️ Preview
+
+![Preview do projeto](images/preview.png)
+
 ## 📌 Sobre o projeto
 
 O projeto consiste na criação de uma interface web inspirada no Spotify, utilizando recursos de desenvolvimento front-end para estruturar e estilizar diferentes elementos da página.
