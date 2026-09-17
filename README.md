@@ -31,7 +31,7 @@ Praticar os fundamentos do desenvolvimento front-end e aprender a utilizar o Boo
 
 Caso o projeto esteja publicado no GitHub Pages, adicione aqui o link:
 
-**[Acessar o projeto]([https://jonatasdassantos.github.io/projeto-inicial-spotify/])**
+**[Acessar o projeto](https://jonatasdassantos.github.io/projeto-inicial-spotify/)**
 
 ## 👨‍💻 Autor
 
@@ -42,4 +42,3 @@ Caso o projeto esteja publicado no GitHub Pages, adicione aqui o link:
 💻 GitHub: https://github.com/jonatasdassantos
 
 💼 LinkedIn: https://www.linkedin.com/in/jonatas-da-silva-santos-33653b224/
-
