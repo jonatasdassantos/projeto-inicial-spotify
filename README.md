@@ -6,6 +6,18 @@ Projeto de desenvolvimento web criado durante meus estudos de HTML5, CSS3 e Boot
 
 ![Preview do projeto](imagens/preview_spotfy.png)
 
+## 🎯 Principais funcionalidades
+
+* Menu de navegação para acesso às diferentes áreas da página
+* Botões de navegação para Premium, Ajuda, Baixar e Inscrever-se
+* Utilização de imagens para composição visual da interface
+* Layout responsivo, adaptando-se a diferentes tamanhos de tela
+* Efeito Parallax durante a rolagem da página
+* Efeito de carrossel para apresentação dos elementos visuais
+* Interface inspirada na identidade visual do Spotify
+* Estrutura desenvolvida com HTML5, CSS3 e Bootstrap
+
+
 ## 📌 Sobre o projeto
 
 O projeto consiste na criação de uma interface web inspirada no Spotify, utilizando recursos de desenvolvimento front-end para estruturar e estilizar diferentes elementos da página.
